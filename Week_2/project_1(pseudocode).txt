@@ -1,0 +1,10 @@
+ START
+1. Display "Welcome to Store Checkout"
+2. Ask user to enter item prices (loop until checkout)
+3. Calculate total cost
+4. Apply discounts if applicable
+5. Ask for payment method (Cash/Card)
+6. Process payment
+7. Generate and display receipt
+8. End transaction
+STOP
